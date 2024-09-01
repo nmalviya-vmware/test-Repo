@@ -10,5 +10,3 @@ def boxprint(symbol, width, height):
 
 #boxprint("**", 16, height=6)
 boxprint(symbol="o",width=4,height=4)
-######
-######
